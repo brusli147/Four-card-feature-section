@@ -21,9 +21,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Four-card-feature desktop design screenshot](./images/four-card-feature desktop design screenshot.png)
+![Four-card-feature desktop design screenshot](./images/four-card-feature desktop design screenshot.PNG)
 
-![Four-card-feature mobile design screenshot](./images/four-card-feature mobile design screenshot1.png)
+![Four-card-feature mobile design screenshot](./images/four-card-feature mobile design screenshot1.PNG)
 
 
 ### Links
